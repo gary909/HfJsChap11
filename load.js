@@ -80,4 +80,26 @@
 
 //****Reworked version ->
 
-setTimeout(function() { alert("Time to take the cookies out of the oven");}, 2000);
+// setTimeout(function() { 
+//     alert("Time to take the cookies out of the oven");
+// }, 2000);
+
+//******************************************
+
+// Original Code ->
+
+function vaccine(dosage) {
+    if (dosage > 0) {
+        inject(dosage);
+    }
+}
+
+administer(patient, vaccine, time);
+
+// Reworked Code ->
+
+administer(patient, function(dosage) {
+        if (dosage > 0) {
+            inject(dosage);
+        }
+}, time);
