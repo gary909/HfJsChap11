@@ -13,3 +13,11 @@ __________________________________________________________
 undeclrd.html -> Example of using anonymous functions, returning an undeclared variable
 
 ![undeclared function image](undec.png)
+
+__________________________________________________________
+
+nested.html -> Example of using nested functions
+
+![nested functions image](nested.png)
+
+__________________________________________________________
