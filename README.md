@@ -21,3 +21,9 @@ nested.html -> Example of using nested functions
 ![nested functions image](nested.png)
 
 __________________________________________________________
+
+count.html -> Example of closures
+
+![closures image](count.png)
+
+__________________________________________________________
