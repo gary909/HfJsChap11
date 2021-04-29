@@ -27,3 +27,9 @@ count.html -> Example of closures
 ![closures image](count.png)
 
 __________________________________________________________
+
+closure.html -> Another example of closures
+
+![click image](click.png)
+
+__________________________________________________________
